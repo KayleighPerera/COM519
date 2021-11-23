@@ -5,10 +5,12 @@ Kayleigh Perera
 Solent University Southampton
 
 Module Title: Advanced Database Systems (COM519)
+
 Mofule Tutor: Joe Appleton 
+
 Word Count: ...
 
-GitHub Link: 
+GitHub Link: ...
 
 # Contents
 1. [Introduction](#introduction)
