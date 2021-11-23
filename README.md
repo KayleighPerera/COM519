@@ -1,4 +1,4 @@
-#Documention
+# Documention
 
 Kayleigh Perera
 Solent University Southampton
@@ -9,14 +9,14 @@ Word Count: ...
 
 GitHub Link: 
 
-#Introduction
+# Introduction
 
-#System Overview
+# System Overview
 
-#Key Design Decisons 
+# Key Design Decisons 
 
-##Databse Design
+## Databse Design
 
-##Security and Scalability
+## Security and Scalability
 
-#Conclusion and Reflection
+# Conclusion and Reflection
